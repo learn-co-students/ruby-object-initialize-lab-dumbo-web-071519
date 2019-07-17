@@ -15,4 +15,4 @@ class Dog
 end
 
 Dog.name
-Dog.breed= "Mutt"
+Dog.breed = "Mutt"
